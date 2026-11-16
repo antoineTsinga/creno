@@ -1,0 +1,74 @@
+CRENO/KRENLI - FONCTIONNALITÉS
+
+Creno est une plateforme de réservation pour des organisations (clubs, associations,
+salles). Chaque organisation propose des offres réservables selon des règles qu'elle
+configure, et la plateforme reste fiable quand beaucoup de personnes réservent en même
+temps.
+
+COMPTE
+- Connexion sans mot de passe, par lien envoyé par e-mail
+- Création automatique du compte à la première connexion
+- Suppression du compte
+- Application en français et en anglais
+
+ORGANISATIONS
+- Création d'une organisation, publique ou privée
+- Liste des organisations publiques
+- Membres avec trois rôles : membre, manager, administrateur
+- Invitation de nouveaux membres par un lien
+- Gestion des membres (changer le rôle, retirer)
+- Suspension d'une organisation par l'administrateur de la plateforme
+
+PARAMÉTRAGE (administrateur)
+- Modèles de réservation : type de capacité, type de temps et règles
+- Règles : ouverture des inscriptions, quota par personne, une seule réservation par
+  offre, délai d'annulation, durée de la réservation provisoire, liste d'attente,
+  confirmation de présence
+- Modèles prêts à l'emploi : Meetup, Terrain de sport, Prêt de matériel
+- Ressources (terrain, salle, matériel), archivables
+- Planning récurrent qui génère automatiquement les créneaux
+- Fermeture d'une ressource sur une période
+- Questions supplémentaires à poser lors de la réservation
+
+OFFRES
+- Création d'événements ponctuels
+- Créneaux générés par le planning récurrent
+- Places restantes, liste d'attente et ouverture programmée visibles sur chaque offre
+
+RÉSERVATION
+- Parcourir les événements d'une organisation
+- Planning du jour sous forme de grille pour les créneaux fixes
+- Réserver une place, avec réservation provisoire le temps de confirmer
+- Réponse aux questions supplémentaires de l'offre
+- Mise à jour des disponibilités en direct
+- Aucun doublon, aucune place en trop, même quand beaucoup réservent en même temps
+- Annulation d'une réservation
+
+LISTE D'ATTENTE
+- Rejoindre ou quitter la liste d'attente d'une offre complète
+- Attribution automatique de la place libérée à la personne suivante
+- Mode proposition : la place est proposée, la personne accepte ou refuse
+
+MES RÉSERVATIONS
+- Toutes mes réservations, à venir et passées, toutes organisations confondues
+- Annuler ou confirmer depuis cette page
+
+PRÉSENCE
+- Demande de confirmation de présence avant l'offre, avec libération de la place sans
+  réponse
+- Rappel avant l'offre
+- Appel après l'offre : présent ou absent
+- Suivi des absences par personne
+
+SUIVI (manager et administrateur)
+- Tableau de bord : remplissage, annulations, absences, liste d'attente
+- Consultation des réponses aux questions supplémentaires
+
+E-MAILS
+- Connexion, invitation, place obtenue, proposition de place, rappel, demande de
+  présence, annulation d'une offre
+
+DONNÉES PERSONNELLES
+- Suppression du compte avec effacement des informations personnelles
+- Anonymisation automatique de l'historique après 24 mois
+- Mentions légales et politique de confidentialité
